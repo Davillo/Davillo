@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Davillo Aurélio <strong>Desenvolvedor Back-end</strong>.<br>
+  Davillo Aurélio => <strong>Desenvolvedor Back-end</strong>.<br>
   Pós-graduado em Engenharia de Software com boa experiência em desenvolvimento Back-end com PHP.
 </p>
 

@@ -6,11 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>PHP Developer</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>PHPUnit, MySQL, Postgres, Docker.</strong>
+  🦄 Linguagens: <strong>Node, PHP Developer</strong>
 </p>
 
 <p align="left">
